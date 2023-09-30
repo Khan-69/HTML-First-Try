@@ -1,0 +1,26 @@
+h1 { color: azure;
+background-color: brown;
+border: 2px solid black;
+box-shadow: 5px 10px black}
+
+h2 {color: azure;
+background-color: brown;
+border: 2px solid black;
+box-shadow: 5px 10px black}
+
+h3 {color: azure;
+background-color: brown;
+border: 2px solid black;
+box-shadow: 5px 10px black}
+
+body{background-color: rgb(41, 40, 39);}
+.class{color: azure;}
+
+.profile{border: 2px solid brown;
+border-radius: 50% ;
+width: 20%;
+height: 20vh;
+}
+
+.class {font-family: Georgia, 'Times New Roman', Times, serif;}
+
